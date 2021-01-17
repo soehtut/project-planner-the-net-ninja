@@ -1,6 +1,6 @@
 {
     "projects": [
-        {"id": 1, "title": "Robyn", "complete": false},
-        {"id": 2, "title": "Bloomph", "complete": true}
+        {"id": 1, "title": "Robyn", "details": "Lorem ipsum", "complete": false},
+        {"id": 2, "title": "Bloomph", "details": "Lorem ipsum", "complete": true}
     ]
 }
