@@ -11,6 +11,18 @@
       "title": "Bloomph",
       "details": "Lorem ipsum",
       "complete": true
+    },
+    {
+      "title": "Dzojchen",
+      "details": "Fashion Ecommerce Website",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "The Life Legacy",
+      "details": "Lorem Ipsum",
+      "complete": true,
+      "id": 4
     }
   ]
 }
