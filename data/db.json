@@ -4,18 +4,18 @@
       "id": 1,
       "title": "Robyn",
       "details": "Lorem ipsum",
-      "complete": true
+      "complete": false
     },
     {
       "id": 2,
       "title": "Bloomph",
       "details": "Lorem ipsum",
-      "complete": true
+      "complete": false
     },
     {
       "title": "Dzojchen",
       "details": "Fashion Ecommerce Website",
-      "complete": true,
+      "complete": false,
       "id": 3
     },
     {
